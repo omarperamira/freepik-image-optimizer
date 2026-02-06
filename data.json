@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-06T10:21:47.116491",
+  "timestamp": "2026-02-06T11:03:34.421136",
   "games": [
     {
       "gameId": "",
@@ -257,12 +257,12 @@
         "teamAbbrev": "",
         "teamLogo": "https://public-ds.static.dobbersports.com/team-logo/dark/.png",
         "goalie": {
-          "id": "6242efd0ec434c152e8d7365",
-          "name": "Cal Petersen",
+          "id": "6242f9fba2d7720910f0fbb7",
+          "name": "Filip Gustavsson",
           "number": 0,
           "confirmed": true,
           "status": "Confirmed",
-          "headshot": "https://public-ds.static.dobbersports.com/player-headshots/6242efd0ec434c152e8d7365.png",
+          "headshot": "https://public-ds.static.dobbersports.com/player-headshots/6242f9fba2d7720910f0fbb7.png",
           "stats": {
             "wins": 0,
             "losses": 0,
